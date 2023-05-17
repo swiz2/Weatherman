@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather man</string>
+    <string name="log_in" />
+    <string name="login">Log In</string>
+</resources>
